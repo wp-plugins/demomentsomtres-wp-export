@@ -3,7 +3,7 @@
   Plugin Name: DeMomentSomTres Export
   Plugin URI: http://DeMomentSomTres.com/english/wordpress-plugin-export
   Description: DeMomentSomTres Export was build because DeMomentSomTres had a customer with a very big blog that had to be imported without only the required attachment files.
-  Version: 1.0
+  Version: 1.0.1
   Author: DeMomentSomTres
   Author URI: http://DeMomentSomTres.com
   License: GPLv2 or later
