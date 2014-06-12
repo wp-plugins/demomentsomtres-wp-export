@@ -6,15 +6,21 @@ Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
 
-DeMomentSomTres Export was build because DeMomentSomTres|http://demomentsomtres.com had a customer with a very big blog that had to be imported without only the required attachment files.
+DeMomentSomTres Export was build because [DeMomentSomTres](http://demomentsomtres.com) had a customer with a very big blog that had to be imported without only the required attachment files.
 
 == Description ==
 
-DeMomentSomTres Export was build because DeMomentSomTres|http://demomentsomtres.com had a customer with a very big blog that had to be imported with all attachments.
+DeMomentSomTres Export was build because [DeMomentSomTres](http://demomentsomtres.com) had a customer with a very big blog that had to be imported with all attachments.
 
 This plugin introduces uses a modified version of the export procedure.
 
 Standard export procedure can be recovered unistalling or deactivating this plugin.
+
+== FAQ ==
+= I have activated the plugin and NOTHING happens =
+This pluguin ONLY modifies some elements in the internal processes of WordPress Export so no apparent changes will be seen by the users.
+
+Go to Tools > Export and use it.
 
 == Installation ==
 
