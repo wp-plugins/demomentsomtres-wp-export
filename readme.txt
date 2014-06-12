@@ -16,6 +16,8 @@ This plugin introduces uses a modified version of the export procedure.
 
 Standard export procedure can be recovered unistalling or deactivating this plugin.
 
+More information: http://demomentsomtres.com/english/wordpress-plugins/demomentsomtres-wordpress-export-post-with-images/
+
 == FAQ ==
 = I have activated the plugin and NOTHING happens =
 This pluguin ONLY modifies some elements in the internal processes of WordPress Export so no apparent changes will be seen by the users.
