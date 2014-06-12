@@ -18,7 +18,7 @@ Standard export procedure can be recovered unistalling or deactivating this plug
 
 More information: http://demomentsomtres.com/english/wordpress-plugins/demomentsomtres-wordpress-export-post-with-images/
 
-== FAQ ==
+== Frequently Asked Questions ==
 
 = I have activated the plugin and NOTHING happens =
 
