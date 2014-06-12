@@ -6,7 +6,7 @@ Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
 
-DeMomentSomTres Export was build because [DeMomentSomTres](http://demomentsomtres.com) had a customer with a very big blog that had to be imported without only the required attachment files.
+DeMomentSomTres Export to help exporting filtered WordPress data with required attachment files that usually get lost.
 
 == Description ==
 
