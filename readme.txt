@@ -12,7 +12,7 @@ DeMomentSomTres Export to help exporting filtered WordPress data with required a
 
 DeMomentSomTres Export was build because [DeMomentSomTres](http://demomentsomtres.com) had a customer with a very big blog that had to be imported with all attachments.
 
-This plugin introduces uses a modified version of the export procedure.
+This plugin is a modified version of the export procedure.
 
 Standard export procedure can be recovered unistalling or deactivating this plugin.
 
