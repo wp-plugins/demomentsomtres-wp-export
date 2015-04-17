@@ -2,7 +2,7 @@
 Contributors: marcqueralt
 Tags: export, attachments
 Requires at least: 3.4
-Tested up to: 3.9.1
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GPLv2 or later
 
