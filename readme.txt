@@ -2,7 +2,7 @@
 Contributors: marcqueralt
 Tags: export, attachments
 Requires at least: 3.4
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 
@@ -35,6 +35,11 @@ Upload the plugin.
 N/A
 
 == Changelog ==
+
+= 1.1 =
+
+* compatibility updates
+* posts are not allwais parent for a featured image -> thanks to megamurmulis
 
 =1.0.1=
 
